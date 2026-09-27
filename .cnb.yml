@@ -1,0 +1,116 @@
+# ============================================================
+#  CNB（cnb.cool）云端打包 Windows exe
+# ============================================================
+#
+#  【重要前提，务必先读】
+#  CNB 的托管构建节点是【按架构】划分的，不是按系统：
+#      cnb:arch:amd64        → Linux（x86_64）
+#      cnb:arch:arm64:v8     → Linux（ARM）
+#      cnb:arch:amd64:gpu    → Linux + GPU
+#  也就是说：CNB 官方【没有 Windows 托管节点】，
+#  不能像 GitHub Actions 那样写 runs-on: windows-latest。
+#
+#  所以这里采用的是 PyInstaller 官方 FAQ 推荐的替代路线：
+#      "Can I package Windows binaries while running under Linux?
+#       No, this is not supported. Please use Wine for this,
+#       PyInstaller runs fine in Wine."
+#  即在 CNB 的 amd64 Linux 节点上装 Wine，
+#  在 Wine 里跑【Windows 版 Python + PyInstaller】来产出 exe。
+#
+#  ⚠️ 该方案未经实测（受环境限制无法验证），成功率以实际运行为准。
+#     若 Wine 路线走不通，请改用：
+#       · 云电脑（ToDesk / 阿里云无影 / 青椒云）里双击 build.bat  ← 最省事
+#       · GitHub Actions（有原生 Windows 托管机）                  ← 最稳
+#
+#  用法：把本文件连同源码一起推到 CNB 仓库根目录，push 即触发。
+# ============================================================
+
+main:
+  push:
+    - name: build-exe-via-wine
+      runner:
+        tags: cnb:arch:amd64      # 必须用 amd64，wine 需要 x86_64
+        cpus: 8
+      docker:
+        image: ubuntu:22.04
+      env:
+        DEBIAN_FRONTEND: noninteractive
+        WINEARCH: win64
+        WINEPREFIX: /root/.wine64
+        WINEDEBUG: -all
+        PY_VER: "3.11.9"
+
+      stages:
+        # ----------------------------------------------------
+        - name: 1/5 安装 Wine
+          script: |
+            set -e
+            dpkg --add-architecture i386
+            apt-get update -qq
+            apt-get install -y --no-install-recommends \
+                ca-certificates curl git software-properties-common
+            install -d /etc/apt/keyrings
+            curl -fsSL https://dl.winehq.org/wine-builds/winehq.key \
+                 -o /etc/apt/keyrings/winehq-archive.key
+            curl -fsSL "https://dl.winehq.org/wine-builds/debian/dists/jammy/winehq-jammy.sources" \
+                 -o /etc/apt/sources.list.d/winehq.sources
+            apt-get update -qq
+            apt-get install -y --install-recommends winehq-stable
+            wine --version
+
+        # ----------------------------------------------------
+        - name: 2/5 初始化 Wine 环境
+          script: |
+            set -e
+            wineboot --init >/dev/null 2>&1 || true
+            sleep 3
+            wine cmd /c ver || true
+
+        # ----------------------------------------------------
+        - name: 3/5 安装 Windows 版 Python（含 tkinter）
+          script: |
+            set -e
+            curl -fsSL -o /tmp/py.exe \
+              "https://www.python.org/ftp/python/${PY_VER}/python-${PY_VER}-amd64.exe"
+            # 静默安装；Include_tcltk 默认为 1，tkinter 会被装上
+            wine /tmp/py.exe /quiet InstallAllUsers=1 PrependPath=1 \
+                 Include_test=0 Include_doc=0 || true
+            sleep 5
+            # 确认 python 与 tkinter 都可用
+            if wine python -c "import sys,tkinter;print(sys.version)" 2>/dev/null; then
+              echo "wine python 可用，tkinter 正常"
+            else
+              echo "退回绝对路径"
+              wine "C:\\Python311\\python.exe" -c "import sys,tkinter;print(sys.version)"
+              ln -sf /root/.wine64/drive_c/Python311/python.exe /usr/local/bin/wpy || true
+            fi
+
+        # ----------------------------------------------------
+        - name: 4/5 安装 PyInstaller 并打包
+          script: |
+            set -e
+            PY="wine python"
+            $PY -m pip install --upgrade pip
+            $PY -m pip install pyinstaller
+            $PY selftest.py || true          # 自检仅作参考，失败不阻断
+            $PY -m PyInstaller TianFuWubi.spec --noconfirm --clean
+            ls -lh dist/
+            test -f dist/TianFuWubi.exe
+            echo "打包成功"
+
+        # ----------------------------------------------------
+        # 把 exe 推到仓库的 exe 分支（孤立分支，每次只有这一个文件），
+        # 这样在网页上切到该分支即可直接下载，不依赖任何额外 API。
+        - name: 5/5 发布 exe 到 exe 分支
+          script: |
+            set -e
+            git config user.name  "cnb-bot"
+            git config user.email "cnb-bot@cnb.cool"
+            git checkout --orphan exe
+            git rm -rf --cached . >/dev/null 2>&1 || true
+            rm -f TianFuWubi.exe
+            cp dist/TianFuWubi.exe ./TianFuWubi.exe
+            git add -f TianFuWubi.exe
+            git commit -m "build $(date '+%Y-%m-%d %H:%M')" || true
+            git push -f origin exe
+            echo "已推送到 exe 分支，网页切换到该分支即可下载 TianFuWubi.exe"

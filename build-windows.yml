@@ -1,0 +1,40 @@
+name: Build Windows exe
+
+# 用 GitHub 免费提供的 Windows 云主机打包，手机上点几下就能拿到 exe
+on:
+  workflow_dispatch:      # 允许在网页上手动点按钮触发
+  push:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: windows-latest      # 关键：必须是 Windows 机器
+
+    steps:
+      - name: 1. 取出代码
+        uses: actions/checkout@v4
+
+      - name: 2. 准备 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 3. 安装打包工具
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyinstaller
+
+      - name: 4. 环境自检
+        continue-on-error: true
+        run: python selftest.py
+
+      - name: 5. 打包成 exe
+        run: pyinstaller TianFuWubi.spec --noconfirm --clean
+
+      - name: 6. 上传成品
+        uses: actions/upload-artifact@v4
+        with:
+          name: TianFuWubi-exe
+          path: dist/TianFuWubi.exe
+          if-no-files-found: error
+          retention-days: 30
