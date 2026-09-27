@@ -1,0 +1,4005 @@
+{
+ "v": 1,
+ "phrases": [
+  {
+   "code": "hhg",
+   "content": "上",
+   "weight": 4250000000,
+   "tags": [
+    "H部"
+   ]
+  },
+  {
+   "code": "hhgg",
+   "content": "上",
+   "weight": 4250000000,
+   "tags": [
+    "H部"
+   ]
+  },
+  {
+   "code": "r",
+   "content": "的",
+   "weight": 4220000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "rqy",
+   "content": "的",
+   "weight": 4220000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "rqyy",
+   "content": "的",
+   "weight": 4220000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "rhfk",
+   "content": "年",
+   "weight": 3780000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "ghi",
+   "content": "下",
+   "weight": 3260000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "wqin",
+   "content": "您",
+   "weight": 3090000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "mqq",
+   "content": "网",
+   "weight": 3030000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "mqqi",
+   "content": "网",
+   "weight": 3030000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "yly",
+   "content": "为",
+   "weight": 2930000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ylyi",
+   "content": "为",
+   "weight": 2930000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ggl",
+   "content": "一",
+   "weight": 2830000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "ggll",
+   "content": "一",
+   "weight": 2830000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "khk",
+   "content": "中",
+   "weight": 2720000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "dhf",
+   "content": "在",
+   "weight": 2700000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "dhfd",
+   "content": "在",
+   "weight": 2700000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "dmu",
+   "content": "页",
+   "weight": 2680000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "uth",
+   "content": "首",
+   "weight": 2560000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "uthf",
+   "content": "首",
+   "weight": 2560000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "yge",
+   "content": "请",
+   "weight": 2510000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ygeg",
+   "content": "请",
+   "weight": 2510000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "sgd",
+   "content": "本",
+   "weight": 2490000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "goi",
+   "content": "来",
+   "weight": 2460000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "uhkg",
+   "content": "站",
+   "weight": 2410000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "tffu",
+   "content": "等",
+   "weight": 2390000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "wwww",
+   "content": "人",
+   "weight": 2390000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "jjjj",
+   "content": "日",
+   "weight": 2380000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "def",
+   "content": "有",
+   "weight": 2310000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "gjq",
+   "content": "更",
+   "weight": 2310000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "trn",
+   "content": "我",
+   "weight": 2310000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "gjqi",
+   "content": "更",
+   "weight": 2310000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "trnt",
+   "content": "我",
+   "weight": 2310000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "eee",
+   "content": "月",
+   "weight": 2250000000,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "eeee",
+   "content": "月",
+   "weight": 2250000000,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "dgg",
+   "content": "三",
+   "weight": 2230000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "dggg",
+   "content": "三",
+   "weight": 2230000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "jgh",
+   "content": "是",
+   "weight": 2210000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "rhf",
+   "content": "看",
+   "weight": 2210000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "jghu",
+   "content": "是",
+   "weight": 2210000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "gii",
+   "content": "不",
+   "weight": 2140000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gcfj",
+   "content": "到",
+   "weight": 2060000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "usr",
+   "content": "新",
+   "weight": 2030000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "usrh",
+   "content": "新",
+   "weight": 2030000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "g",
+   "content": "一",
+   "weight": 2015124793,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "thgc",
+   "content": "版",
+   "weight": 1980000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "bmk",
+   "content": "出",
+   "weight": 1860000000,
+   "tags": [
+    "B部"
+   ]
+  },
+  {
+   "code": "cex",
+   "content": "能",
+   "weight": 1820000000,
+   "tags": [
+    "C部"
+   ]
+  },
+  {
+   "code": "cexx",
+   "content": "能",
+   "weight": 1820000000,
+   "tags": [
+    "C部"
+   ]
+  },
+  {
+   "code": "tkg",
+   "content": "和",
+   "weight": 1790000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "dddd",
+   "content": "大",
+   "weight": 1790000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "vbg",
+   "content": "好",
+   "weight": 1780000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "uqw",
+   "content": "次",
+   "weight": 1750000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "uqwy",
+   "content": "次",
+   "weight": 1750000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "uqf",
+   "content": "将",
+   "weight": 1740000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "uqfy",
+   "content": "将",
+   "weight": 1740000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "aqi",
+   "content": "区",
+   "weight": 1730000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "qqu",
+   "content": "多",
+   "weight": 1730000000,
+   "tags": [
+    "Q部"
+   ]
+  },
+  {
+   "code": "yidn",
+   "content": "就",
+   "weight": 1720000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "txh",
+   "content": "第",
+   "weight": 1710000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "txht",
+   "content": "第",
+   "weight": 1710000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "bnh",
+   "content": "了",
+   "weight": 1690000000,
+   "tags": [
+    "B部"
+   ]
+  },
+  {
+   "code": "qkf",
+   "content": "名",
+   "weight": 1690000000,
+   "tags": [
+    "Q部"
+   ]
+  },
+  {
+   "code": "ftj",
+   "content": "者",
+   "weight": 1680000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "ftjf",
+   "content": "者",
+   "weight": 1680000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "j",
+   "content": "是",
+   "weight": 1632303407,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "gdi",
+   "content": "天",
+   "weight": 1610000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "q",
+   "content": "我",
+   "weight": 1603337138,
+   "tags": [
+    "Q部"
+   ]
+  },
+  {
+   "code": "ppp",
+   "content": "之",
+   "weight": 1580000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "pppp",
+   "content": "之",
+   "weight": 1580000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "mquh",
+   "content": "网站",
+   "weight": 1530000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "svf",
+   "content": "要",
+   "weight": 1520000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "wqi",
+   "content": "你",
+   "weight": 1490000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "etnh",
+   "content": "用",
+   "weight": 1490000000,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "wqiy",
+   "content": "你",
+   "weight": 1490000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "kgn",
+   "content": "号",
+   "weight": 1480000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "kgnb",
+   "content": "号",
+   "weight": 1480000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "b",
+   "content": "了",
+   "weight": 1477224452,
+   "tags": [
+    "B部"
+   ]
+  },
+  {
+   "code": "iht",
+   "content": "小",
+   "weight": 1470000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "ihty",
+   "content": "小",
+   "weight": 1470000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "whj",
+   "content": "个",
+   "weight": 1460000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "uej",
+   "content": "前",
+   "weight": 1440000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "uejj",
+   "content": "前",
+   "weight": 1440000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "i",
+   "content": "不",
+   "weight": 1435362894,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "gi",
+   "content": "不",
+   "weight": 1435362894,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "tkf",
+   "content": "各",
+   "weight": 1430000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "hxn",
+   "content": "此",
+   "weight": 1400000000,
+   "tags": [
+    "H部"
+   ]
+  },
+  {
+   "code": "lkd",
+   "content": "回",
+   "weight": 1380000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "ftjb",
+   "content": "都",
+   "weight": 1370000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "skd",
+   "content": "可",
+   "weight": 1360000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "wgf",
+   "content": "全",
+   "weight": 1320000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "wvb",
+   "content": "分",
+   "weight": 1310000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "gng",
+   "content": "与",
+   "weight": 1300000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "wfc",
+   "content": "会",
+   "weight": 1300000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "gngd",
+   "content": "与",
+   "weight": 1300000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "wfcu",
+   "content": "会",
+   "weight": 1300000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "jbc",
+   "content": "最",
+   "weight": 1270000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "wug",
+   "content": "位",
+   "weight": 1270000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "jbcu",
+   "content": "最",
+   "weight": 1270000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "ymhj",
+   "content": "市",
+   "weight": 1260000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "akg",
+   "content": "或",
+   "weight": 1250000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "akgd",
+   "content": "或",
+   "weight": 1250000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "rnrh",
+   "content": "所",
+   "weight": 1250000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "xwg",
+   "content": "给",
+   "weight": 1230000000,
+   "tags": [
+    "X部"
+   ]
+  },
+  {
+   "code": "xwgk",
+   "content": "给",
+   "weight": 1230000000,
+   "tags": [
+    "X部"
+   ]
+  },
+  {
+   "code": "jbus",
+   "content": "最新",
+   "weight": 1220000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "khlg",
+   "content": "中国",
+   "weight": 1220000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "umkk",
+   "content": "商品",
+   "weight": 1220000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "cfy",
+   "content": "对",
+   "weight": 1200000000,
+   "tags": [
+    "C部"
+   ]
+  },
+  {
+   "code": "hko",
+   "content": "点",
+   "weight": 1190000000,
+   "tags": [
+    "H部"
+   ]
+  },
+  {
+   "code": "hkou",
+   "content": "点",
+   "weight": 1190000000,
+   "tags": [
+    "H部"
+   ]
+  },
+  {
+   "code": "fgg",
+   "content": "二",
+   "weight": 1180000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "adw",
+   "content": "其",
+   "weight": 1150000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "adwu",
+   "content": "其",
+   "weight": 1150000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "ntc",
+   "content": "发",
+   "weight": 1140000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "ntcy",
+   "content": "发",
+   "weight": 1140000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "d",
+   "content": "在",
+   "weight": 1133790406,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "xeg",
+   "content": "组",
+   "weight": 1130000000,
+   "tags": [
+    "X部"
+   ]
+  },
+  {
+   "code": "xegg",
+   "content": "组",
+   "weight": 1130000000,
+   "tags": [
+    "X部"
+   ]
+  },
+  {
+   "code": "vvv",
+   "content": "女",
+   "weight": 1120000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "rnde",
+   "content": "所有",
+   "weight": 1120000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "vvvv",
+   "content": "女",
+   "weight": 1120000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "utdm",
+   "content": "首页",
+   "weight": 1110000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "peu",
+   "content": "家",
+   "weight": 1100000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "ymfn",
+   "content": "市场",
+   "weight": 1100000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ypi",
+   "content": "这",
+   "weight": 1090000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "tpgj",
+   "content": "管理",
+   "weight": 1070000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "geu",
+   "content": "表",
+   "weight": 1050000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gip",
+   "content": "还",
+   "weight": 1050000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gipi",
+   "content": "还",
+   "weight": 1050000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gefi",
+   "content": "表示",
+   "weight": 1020000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "jfuj",
+   "content": "时间",
+   "weight": 1020000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "w",
+   "content": "人",
+   "weight": 1002212710,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "eyi",
+   "content": "及",
+   "weight": 998000000,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "fqb",
+   "content": "元",
+   "weight": 994000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "lfn",
+   "content": "转",
+   "weight": 985000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "lfny",
+   "content": "转",
+   "weight": 985000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "puhc",
+   "content": "被",
+   "weight": 983000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "ovt",
+   "content": "数",
+   "weight": 982000000,
+   "tags": [
+    "O部"
+   ]
+  },
+  {
+   "code": "bnhn",
+   "content": "也",
+   "weight": 982000000,
+   "tags": [
+    "B部"
+   ]
+  },
+  {
+   "code": "ovty",
+   "content": "数",
+   "weight": 982000000,
+   "tags": [
+    "O部"
+   ]
+  },
+  {
+   "code": "gmf",
+   "content": "再",
+   "weight": 978000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gmfd",
+   "content": "再",
+   "weight": 978000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "ntg",
+   "content": "性",
+   "weight": 977000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "ntgg",
+   "content": "性",
+   "weight": 977000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "e",
+   "content": "有",
+   "weight": 976401164,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "skny",
+   "content": "可以",
+   "weight": 968000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "ukb",
+   "content": "部",
+   "weight": 966000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "ukbh",
+   "content": "部",
+   "weight": 966000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "mwi",
+   "content": "内",
+   "weight": 961000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "kcg",
+   "content": "吗",
+   "weight": 959000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "mtn",
+   "content": "几",
+   "weight": 959000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "gfk",
+   "content": "于",
+   "weight": 957000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "ygd",
+   "content": "主",
+   "weight": 955000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "gqj",
+   "content": "列",
+   "weight": 952000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gqjh",
+   "content": "列",
+   "weight": 952000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "khny",
+   "content": "中心",
+   "weight": 949000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "wrh",
+   "content": "件",
+   "weight": 944000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "wrhh",
+   "content": "件",
+   "weight": 944000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "ltu",
+   "content": "图",
+   "weight": 941000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "ltui",
+   "content": "图",
+   "weight": 941000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "xxn",
+   "content": "比",
+   "weight": 938000000,
+   "tags": [
+    "X部"
+   ]
+  },
+  {
+   "code": "jjsg",
+   "content": "日本",
+   "weight": 936000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "ptk",
+   "content": "客",
+   "weight": 921000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "ptkf",
+   "content": "客",
+   "weight": 921000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "wb",
+   "content": "他",
+   "weight": 918815550,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "lhng",
+   "content": "四",
+   "weight": 917000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "lkg",
+   "content": "加",
+   "weight": 911000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "wdt",
+   "content": "做",
+   "weight": 910000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "wdty",
+   "content": "做",
+   "weight": 910000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "dyi",
+   "content": "太",
+   "weight": 909000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "rgk",
+   "content": "后",
+   "weight": 909000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "txg",
+   "content": "每",
+   "weight": 909000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "rgkd",
+   "content": "后",
+   "weight": 909000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "txgu",
+   "content": "每",
+   "weight": 909000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "ymk",
+   "content": "高",
+   "weight": 906000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ymkf",
+   "content": "高",
+   "weight": 906000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "dmjd",
+   "content": "面",
+   "weight": 905000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "mwpw",
+   "content": "内容",
+   "weight": 902000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "tfqp",
+   "content": "选",
+   "weight": 902000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "mhng",
+   "content": "由",
+   "weight": 889000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "nnnn",
+   "content": "已",
+   "weight": 889000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "butx",
+   "content": "联系",
+   "weight": 888000000,
+   "tags": [
+    "B部"
+   ]
+  },
+  {
+   "code": "p",
+   "content": "这",
+   "weight": 884456705,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "yp",
+   "content": "这",
+   "weight": 884456705,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "nyw",
+   "content": "以",
+   "weight": 884000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "nywy",
+   "content": "以",
+   "weight": 884000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "fii",
+   "content": "未",
+   "weight": 880000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "nyhh",
+   "content": "以上",
+   "weight": 877000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "ukn",
+   "content": "总",
+   "weight": 873000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "uknu",
+   "content": "总",
+   "weight": 873000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "tay",
+   "content": "长",
+   "weight": 867000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "tayi",
+   "content": "长",
+   "weight": 867000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "shn",
+   "content": "想",
+   "weight": 866000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "shnu",
+   "content": "想",
+   "weight": 866000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "tkh",
+   "content": "种",
+   "weight": 865000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "tkhh",
+   "content": "种",
+   "weight": 865000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "tjg",
+   "content": "得",
+   "weight": 856000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "tjgf",
+   "content": "得",
+   "weight": 856000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "fbn",
+   "content": "地",
+   "weight": 853000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "wget",
+   "content": "使用",
+   "weight": 853000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "dcu",
+   "content": "友",
+   "weight": 850000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "jfy",
+   "content": "时",
+   "weight": 850000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "lgn",
+   "content": "车",
+   "weight": 844000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "lgnh",
+   "content": "车",
+   "weight": 844000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "sjrh",
+   "content": "查看",
+   "weight": 840000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "tjet",
+   "content": "利用",
+   "weight": 840000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "thnn",
+   "content": "自己",
+   "weight": 839000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "rat",
+   "content": "找",
+   "weight": 838000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "qqqq",
+   "content": "金",
+   "weight": 837000000,
+   "tags": [
+    "Q部"
+   ]
+  },
+  {
+   "code": "wyth",
+   "content": "信息",
+   "weight": 835000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "thd",
+   "content": "自",
+   "weight": 831000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "trwu",
+   "content": "我们",
+   "weight": 831000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "wbn",
+   "content": "他",
+   "weight": 828000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "ggg",
+   "content": "王",
+   "weight": 827000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gggg",
+   "content": "王",
+   "weight": 827000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "tgit",
+   "content": "生活",
+   "weight": 824000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "qcb",
+   "content": "色",
+   "weight": 819000000,
+   "tags": [
+    "Q部"
+   ]
+  },
+  {
+   "code": "mhkg",
+   "content": "贴",
+   "weight": 819000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "ivf",
+   "content": "当",
+   "weight": 810000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "skce",
+   "content": "可能",
+   "weight": 809000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "wh",
+   "content": "个",
+   "weight": 806585553,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "mgk",
+   "content": "同",
+   "weight": 804000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "mgkd",
+   "content": "同",
+   "weight": 804000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "tve",
+   "content": "很",
+   "weight": 803000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "tvey",
+   "content": "很",
+   "weight": 803000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "gjus",
+   "content": "更新",
+   "weight": 799000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "tgd",
+   "content": "生",
+   "weight": 798000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "ggh",
+   "content": "五",
+   "weight": 796000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gghg",
+   "content": "五",
+   "weight": 796000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "fgh",
+   "content": "十",
+   "weight": 789000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "vcb",
+   "content": "即",
+   "weight": 786000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "vcbh",
+   "content": "即",
+   "weight": 786000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "h",
+   "content": "上",
+   "weight": 783204383,
+   "tags": [
+    "H部"
+   ]
+  },
+  {
+   "code": "rvfp",
+   "content": "搜索",
+   "weight": 779000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "go",
+   "content": "来",
+   "weight": 778808738,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "kwu",
+   "content": "只",
+   "weight": 776000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "xey",
+   "content": "级",
+   "weight": 774000000,
+   "tags": [
+    "X部"
+   ]
+  },
+  {
+   "code": "xeyy",
+   "content": "级",
+   "weight": 774000000,
+   "tags": [
+    "X部"
+   ]
+  },
+  {
+   "code": "mhh",
+   "content": "帖",
+   "weight": 771000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "rcn",
+   "content": "把",
+   "weight": 771000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "mhhk",
+   "content": "帖",
+   "weight": 771000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "dmj",
+   "content": "而",
+   "weight": 763000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "dmjj",
+   "content": "而",
+   "weight": 763000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "yuk",
+   "content": "说",
+   "weight": 759000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "yukq",
+   "content": "说",
+   "weight": 759000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "yygn",
+   "content": "方",
+   "weight": 759000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "kht",
+   "content": "路",
+   "weight": 755000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "khtk",
+   "content": "路",
+   "weight": 755000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "rjwa",
+   "content": "提供",
+   "weight": 754000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "tfq",
+   "content": "先",
+   "weight": 753000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "tyi",
+   "content": "入",
+   "weight": 753000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "tfqb",
+   "content": "先",
+   "weight": 753000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "iii",
+   "content": "水",
+   "weight": 752000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "mqb",
+   "content": "见",
+   "weight": 752000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "iiii",
+   "content": "水",
+   "weight": 752000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "yyif",
+   "content": "方法",
+   "weight": 749000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "fpi",
+   "content": "过",
+   "weight": 744000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "uaj",
+   "content": "并",
+   "weight": 744000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "wfny",
+   "content": "传",
+   "weight": 744000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "shg",
+   "content": "相",
+   "weight": 740000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "wgkq",
+   "content": "使",
+   "weight": 739000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "ggwh",
+   "content": "一个",
+   "weight": 738000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "ebc",
+   "content": "服",
+   "weight": 733000000,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "ebcy",
+   "content": "服",
+   "weight": 733000000,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "dnv",
+   "content": "万",
+   "weight": 731000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "ccc",
+   "content": "又",
+   "weight": 729000000,
+   "tags": [
+    "C部"
+   ]
+  },
+  {
+   "code": "cccc",
+   "content": "又",
+   "weight": 729000000,
+   "tags": [
+    "C部"
+   ]
+  },
+  {
+   "code": "ltn",
+   "content": "力",
+   "weight": 726000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "udh",
+   "content": "着",
+   "weight": 726000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "udhf",
+   "content": "着",
+   "weight": 726000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "wcng",
+   "content": "公司",
+   "weight": 725000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "dnn",
+   "content": "成",
+   "weight": 723000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "jgj",
+   "content": "量",
+   "weight": 723000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "dnnt",
+   "content": "成",
+   "weight": 723000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "jgjf",
+   "content": "量",
+   "weight": 723000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "fjp",
+   "content": "进",
+   "weight": 719000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "fjpk",
+   "content": "进",
+   "weight": 719000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "yynw",
+   "content": "该",
+   "weight": 716000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "iymm",
+   "content": "注册",
+   "weight": 715000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "ghfa",
+   "content": "下载",
+   "weight": 714000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "ugdu",
+   "content": "美",
+   "weight": 712000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "tlf",
+   "content": "备",
+   "weight": 709000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "qhy",
+   "content": "外",
+   "weight": 707000000,
+   "tags": [
+    "Q部"
+   ]
+  },
+  {
+   "code": "imde",
+   "content": "没有",
+   "weight": 705000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "wygg",
+   "content": "住",
+   "weight": 703000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "wqa",
+   "content": "低",
+   "weight": 699000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "wqay",
+   "content": "低",
+   "weight": 699000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "wtft",
+   "content": "作者",
+   "weight": 699000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "fcu",
+   "content": "去",
+   "weight": 695000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "yhg",
+   "content": "让",
+   "weight": 694000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "gc",
+   "content": "到",
+   "weight": 693188975,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "pbf",
+   "content": "字",
+   "weight": 693000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "ybm",
+   "content": "离",
+   "weight": 693000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ybmc",
+   "content": "离",
+   "weight": 693000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "wqj",
+   "content": "像",
+   "weight": 690000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "wqje",
+   "content": "像",
+   "weight": 690000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "pxb",
+   "content": "它",
+   "weight": 686000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "adwb",
+   "content": "其他",
+   "weight": 685000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "tmk",
+   "content": "向",
+   "weight": 684000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "anlw",
+   "content": "世界",
+   "weight": 684000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "gmww",
+   "content": "两",
+   "weight": 684000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "tmkd",
+   "content": "向",
+   "weight": 684000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "wwy",
+   "content": "从",
+   "weight": 683000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "wxf",
+   "content": "华",
+   "weight": 681000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "ukjg",
+   "content": "问题",
+   "weight": 681000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "wxfj",
+   "content": "华",
+   "weight": 681000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "wxn",
+   "content": "化",
+   "weight": 678000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "umw",
+   "content": "商",
+   "weight": 677000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "umwk",
+   "content": "商",
+   "weight": 677000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "shud",
+   "content": "相关",
+   "weight": 671000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "tit",
+   "content": "秒",
+   "weight": 669000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "titt",
+   "content": "秒",
+   "weight": 669000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "yygy",
+   "content": "文",
+   "weight": 665000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "krh",
+   "content": "听",
+   "weight": 664000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "yice",
+   "content": "就能",
+   "weight": 663000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "djf",
+   "content": "百",
+   "weight": 660000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "dri",
+   "content": "原",
+   "weight": 660000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "drii",
+   "content": "原",
+   "weight": 660000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "wjg",
+   "content": "但",
+   "weight": 658000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "tyna",
+   "content": "篇",
+   "weight": 658000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "wjgg",
+   "content": "但",
+   "weight": 658000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "yty",
+   "content": "放",
+   "weight": 653000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "nnk",
+   "content": "局",
+   "weight": 648000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "nnkd",
+   "content": "局",
+   "weight": 648000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "ltth",
+   "content": "图片",
+   "weight": 646000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "kcn",
+   "content": "吧",
+   "weight": 645000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "ntge",
+   "content": "发表",
+   "weight": 645000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "sdm",
+   "content": "顶",
+   "weight": 644000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "sdmy",
+   "content": "顶",
+   "weight": 644000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "iqb",
+   "content": "光",
+   "weight": 640000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "yu",
+   "content": "说",
+   "weight": 639297533,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "vkg",
+   "content": "如",
+   "weight": 638000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "jbrp",
+   "content": "最近",
+   "weight": 638000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "fhn",
+   "content": "起",
+   "weight": 634000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "fhnv",
+   "content": "起",
+   "weight": 634000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "sguh",
+   "content": "本站",
+   "weight": 634000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "nhad",
+   "content": "收藏",
+   "weight": 631000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "ygyw",
+   "content": "评论",
+   "weight": 631000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ntdm",
+   "content": "发布",
+   "weight": 627000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "nudu",
+   "content": "买",
+   "weight": 627000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "rqrn",
+   "content": "挣扎",
+   "weight": 626000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "uxyi",
+   "content": "北京",
+   "weight": 626000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "ylk",
+   "content": "库",
+   "weight": 622000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "udgf",
+   "content": "关于",
+   "weight": 621000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "uthp",
+   "content": "道",
+   "weight": 619000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "yyuj",
+   "content": "文章",
+   "weight": 617000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "jfd",
+   "content": "里",
+   "weight": 616000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "kkd",
+   "content": "器",
+   "weight": 615000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "kkdk",
+   "content": "器",
+   "weight": 615000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "ymc",
+   "content": "设",
+   "weight": 613000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ymcy",
+   "content": "设",
+   "weight": 613000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "fhw",
+   "content": "真",
+   "weight": 612000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "fhwu",
+   "content": "真",
+   "weight": 612000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "nyn",
+   "content": "心",
+   "weight": 610000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "nyny",
+   "content": "心",
+   "weight": 610000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "uygy",
+   "content": "六",
+   "weight": 610000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "xta",
+   "content": "张",
+   "weight": 608000000,
+   "tags": [
+    "X部"
+   ]
+  },
+  {
+   "code": "xtay",
+   "content": "张",
+   "weight": 608000000,
+   "tags": [
+    "X部"
+   ]
+  },
+  {
+   "code": "tsu",
+   "content": "条",
+   "weight": 607000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "jnv",
+   "content": "电",
+   "weight": 606000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "vtk",
+   "content": "群",
+   "weight": 606000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "fbfh",
+   "content": "地址",
+   "weight": 606000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "vtkd",
+   "content": "群",
+   "weight": 606000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "wys",
+   "content": "集",
+   "weight": 605000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "wysu",
+   "content": "集",
+   "weight": 605000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "yhk",
+   "content": "店",
+   "weight": 604000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "yhkd",
+   "content": "店",
+   "weight": 604000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ebtl",
+   "content": "服务",
+   "weight": 602000000,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "whww",
+   "content": "个人",
+   "weight": 600000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "khyy",
+   "content": "中文",
+   "weight": 599000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "awx",
+   "content": "花",
+   "weight": 598000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "awxb",
+   "content": "花",
+   "weight": 598000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "wq",
+   "content": "你",
+   "weight": 597727619,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "rpjj",
+   "content": "近日",
+   "weight": 595000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "wnlk",
+   "content": "追加",
+   "weight": 594000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "gkv",
+   "content": "事",
+   "weight": 590000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gkvh",
+   "content": "事",
+   "weight": 590000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "ssy",
+   "content": "林",
+   "weight": 589000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "txi",
+   "content": "系",
+   "weight": 589000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "jffy",
+   "content": "時",
+   "weight": 589000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "txiu",
+   "content": "系",
+   "weight": 589000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "fte",
+   "content": "才",
+   "weight": 585000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "fnrt",
+   "content": "场",
+   "weight": 584000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "ywff",
+   "content": "论坛",
+   "weight": 577000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "yny",
+   "content": "房",
+   "weight": 573000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ynyv",
+   "content": "房",
+   "weight": 573000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "fcrf",
+   "content": "支持",
+   "weight": 571000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "wguk",
+   "content": "全部",
+   "weight": 571000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "rfsy",
+   "content": "技术",
+   "weight": 570000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "yyaa",
+   "content": "方式",
+   "weight": 570000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "ttd",
+   "content": "笑",
+   "weight": 568000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "ttdu",
+   "content": "笑",
+   "weight": 568000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "debv",
+   "content": "有限",
+   "weight": 567000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "src",
+   "content": "板",
+   "weight": 566000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "srcy",
+   "content": "板",
+   "weight": 566000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "fcl",
+   "content": "动",
+   "weight": 565000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "fcln",
+   "content": "动",
+   "weight": 565000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "k",
+   "content": "中",
+   "weight": 563673763,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "kh",
+   "content": "中",
+   "weight": 563673763,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "fge",
+   "content": "博",
+   "weight": 562000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "fgef",
+   "content": "博",
+   "weight": 562000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "wulf",
+   "content": "位置",
+   "weight": 561000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "dd",
+   "content": "大",
+   "weight": 559769912,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "epd",
+   "content": "爱",
+   "weight": 555000000,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "epdc",
+   "content": "爱",
+   "weight": 555000000,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "lkty",
+   "content": "加入",
+   "weight": 553000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "aaa",
+   "content": "工",
+   "weight": 551000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "aaaa",
+   "content": "工",
+   "weight": 551000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "pgc",
+   "content": "室",
+   "weight": 549000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "scy",
+   "content": "权",
+   "weight": 549000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "pgcf",
+   "content": "室",
+   "weight": 549000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "wgvi",
+   "content": "登录",
+   "weight": 548000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "gcf",
+   "content": "至",
+   "weight": 546000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "etyn",
+   "content": "用户",
+   "weight": 546000000,
+   "tags": [
+    "E部"
+   ]
+  },
+  {
+   "code": "gcff",
+   "content": "至",
+   "weight": 546000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "mhgd",
+   "content": "円",
+   "weight": 546000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "ukd",
+   "content": "问",
+   "weight": 545000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "vkjs",
+   "content": "如果",
+   "weight": 543000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "wage",
+   "content": "代表",
+   "weight": 543000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "usub",
+   "content": "新闻",
+   "weight": 542000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "pvf",
+   "content": "安",
+   "weight": 541000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "iyuj",
+   "content": "注意",
+   "weight": 540000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "rpv",
+   "content": "按",
+   "weight": 536000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "rpvg",
+   "content": "按",
+   "weight": 536000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "rwad",
+   "content": "推荐",
+   "weight": 535000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "odu",
+   "content": "类",
+   "weight": 534000000,
+   "tags": [
+    "O部"
+   ]
+  },
+  {
+   "code": "jnyt",
+   "content": "电话",
+   "weight": 534000000,
+   "tags": [
+    "J部"
+   ]
+  },
+  {
+   "code": "xgt",
+   "content": "线",
+   "weight": 533000000,
+   "tags": [
+    "X部"
+   ]
+  },
+  {
+   "code": "glwq",
+   "content": "画像",
+   "weight": 533000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "aawt",
+   "content": "工作",
+   "weight": 531000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "tfhh",
+   "content": "行",
+   "weight": 531000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "utkk",
+   "content": "产品",
+   "weight": 530000000,
+   "tags": [
+    "U部"
+   ]
+  },
+  {
+   "code": "lgy",
+   "content": "国",
+   "weight": 526000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "lgyi",
+   "content": "国",
+   "weight": 526000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "qyyy",
+   "content": "留言",
+   "weight": 525000000,
+   "tags": [
+    "Q部"
+   ]
+  },
+  {
+   "code": "ifc",
+   "content": "法",
+   "weight": 524000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "ifcy",
+   "content": "法",
+   "weight": 524000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "wvyv",
+   "content": "健康",
+   "weight": 523000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "y",
+   "content": "主",
+   "weight": 521303258,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "yi",
+   "content": "就",
+   "weight": 521303256,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "wu",
+   "content": "们",
+   "weight": 521225102,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "cep",
+   "content": "通",
+   "weight": 521000000,
+   "tags": [
+    "C部"
+   ]
+  },
+  {
+   "code": "yac",
+   "content": "度",
+   "weight": 521000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "yid",
+   "content": "应",
+   "weight": 521000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "cepk",
+   "content": "通",
+   "weight": 521000000,
+   "tags": [
+    "C部"
+   ]
+  },
+  {
+   "code": "yaci",
+   "content": "度",
+   "weight": 521000000,
+   "tags": [
+    "Y部"
+   ]
+  },
+  {
+   "code": "hkfm",
+   "content": "点击",
+   "weight": 519000000,
+   "tags": [
+    "H部"
+   ]
+  },
+  {
+   "code": "gajf",
+   "content": "型",
+   "weight": 518000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "ith",
+   "content": "省",
+   "weight": 516000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "kru",
+   "content": "啦",
+   "weight": 516000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "ktn",
+   "content": "吃",
+   "weight": 516000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "llb",
+   "content": "男",
+   "weight": 516000000,
+   "tags": [
+    "L部"
+   ]
+  },
+  {
+   "code": "ithf",
+   "content": "省",
+   "weight": 516000000,
+   "tags": [
+    "I部"
+   ]
+  },
+  {
+   "code": "krug",
+   "content": "啦",
+   "weight": 516000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "ktnn",
+   "content": "吃",
+   "weight": 516000000,
+   "tags": [
+    "K部"
+   ]
+  },
+  {
+   "code": "rmty",
+   "content": "投稿",
+   "weight": 516000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "fqu",
+   "content": "均",
+   "weight": 514000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "fqug",
+   "content": "均",
+   "weight": 514000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "tufh",
+   "content": "科",
+   "weight": 513000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "dgkn",
+   "content": "感",
+   "weight": 512000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "mqxt",
+   "content": "网络",
+   "weight": 512000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "tswr",
+   "content": "条件",
+   "weight": 512000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "tdut",
+   "content": "知道",
+   "weight": 511000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "dgpw",
+   "content": "研究",
+   "weight": 510000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "smn",
+   "content": "机",
+   "weight": 509000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "rpk",
+   "content": "近",
+   "weight": 508000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "gkp",
+   "content": "带",
+   "weight": 507000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gkph",
+   "content": "带",
+   "weight": 507000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "thsc",
+   "content": "版权",
+   "weight": 504000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "fhv",
+   "content": "超",
+   "weight": 503000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "mqc",
+   "content": "购",
+   "weight": 503000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "fhvk",
+   "content": "超",
+   "weight": 503000000,
+   "tags": [
+    "F部"
+   ]
+  },
+  {
+   "code": "mqcy",
+   "content": "购",
+   "weight": 503000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "sksw",
+   "content": "歌",
+   "weight": 503000000,
+   "tags": [
+    "S部"
+   ]
+  },
+  {
+   "code": "bbb",
+   "content": "子",
+   "weight": 501000000,
+   "tags": [
+    "B部"
+   ]
+  },
+  {
+   "code": "bbbb",
+   "content": "子",
+   "weight": 501000000,
+   "tags": [
+    "B部"
+   ]
+  },
+  {
+   "code": "vfb",
+   "content": "那",
+   "weight": 500000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "rtsm",
+   "content": "手机",
+   "weight": 500000000,
+   "tags": [
+    "R部"
+   ]
+  },
+  {
+   "code": "vfbh",
+   "content": "那",
+   "weight": 500000000,
+   "tags": [
+    "V部"
+   ]
+  },
+  {
+   "code": "gqx",
+   "content": "死",
+   "weight": 498000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "gqxb",
+   "content": "死",
+   "weight": 498000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "bb",
+   "content": "子",
+   "weight": 497527507,
+   "tags": [
+    "B部"
+   ]
+  },
+  {
+   "code": "pyf",
+   "content": "社",
+   "weight": 496000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "pyfg",
+   "content": "社",
+   "weight": 496000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "adm",
+   "content": "项",
+   "weight": 494000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "admy",
+   "content": "项",
+   "weight": 494000000,
+   "tags": [
+    "A部"
+   ]
+  },
+  {
+   "code": "mjh",
+   "content": "则",
+   "weight": 493000000,
+   "tags": [
+    "M部"
+   ]
+  },
+  {
+   "code": "nygh",
+   "content": "以下",
+   "weight": 491000000,
+   "tags": [
+    "N部"
+   ]
+  },
+  {
+   "code": "trq",
+   "content": "物",
+   "weight": 489000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "trqr",
+   "content": "物",
+   "weight": 489000000,
+   "tags": [
+    "T部"
+   ]
+  },
+  {
+   "code": "pwa",
+   "content": "空",
+   "weight": 488000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "pwaf",
+   "content": "空",
+   "weight": 488000000,
+   "tags": [
+    "P部"
+   ]
+  },
+  {
+   "code": "wglg",
+   "content": "全国",
+   "weight": 487000000,
+   "tags": [
+    "W部"
+   ]
+  },
+  {
+   "code": "ckf",
+   "content": "台",
+   "weight": 486000000,
+   "tags": [
+    "C部"
+   ]
+  },
+  {
+   "code": "gak",
+   "content": "开",
+   "weight": 486000000,
+   "tags": [
+    "G部"
+   ]
+  },
+  {
+   "code": "hqb",
+   "content": "見",
+   "weight": 486000000,
+   "tags": [
+    "H部"
+   ]
+  },
+  {
+   "code": "djd",
+   "content": "非",
+   "weight": 485000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "djdd",
+   "content": "非",
+   "weight": 485000000,
+   "tags": [
+    "D部"
+   ]
+  },
+  {
+   "code": "hhue",
+   "content": "目前",
+   "weight": 483000000,
+   "tags": [
+    "H部"
+   ]
+  }
+ ]
+}
